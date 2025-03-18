@@ -5,7 +5,7 @@ Bem-vindo ao meu GitHub! Sou um entusiasta da tecnologia que investe seu tempo a
 ## ✨ Sobre mim
 - 💻 Apaixonado por tecnologia e soluções inovadoras.
 - 🎓 Sempre em busca de aprendizado e aperfeiçoamento.
-- 🛠️ Tenho experiência com desenvolvimento, redes e virtualização.
+- 🛠️ Tenho experiência com desenvolvimento, banco de dados e design.
 
 ## 🎨 Projetos em Destaque
 ### UpCash
